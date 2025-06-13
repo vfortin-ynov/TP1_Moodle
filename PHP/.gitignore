@@ -1,0 +1,7 @@
+# Dependencies
+/vendor/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
